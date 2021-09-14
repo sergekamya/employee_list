@@ -3,7 +3,7 @@ import React from 'react'
 const App = () => {
   return (
     <div>
-      <h1>Employee list</h1>
+      <h1 data-testid="header">Employee management</h1>
     </div>
   )
 }
